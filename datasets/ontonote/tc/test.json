@@ -1,0 +1,1366 @@
+{"text": " But %uh , yeah ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " it 's still a fairly expensive call", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %uh but it 's a lot less expensive if we do it that way than if we actually make my parents in law pay it ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " then it", "label": ["O", "O"]}
+{"text": " the Dutch have such high taxes on those", "label": ["O", "B-NORP", "O", "O", "O", "O", "O", "O"]}
+{"text": " they consider it a luxury to call around the world", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " so they tax it really high .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Anyway %um", "label": ["O", "O"]}
+{"text": " So you guys will be in either the eighteenth or the nineteenth", "label": ["O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O", "B-DATE", "I-DATE"]}
+{"text": " and you 're going to go to %uh Amsterdam .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O"]}
+{"text": " Well I would say is once you 're at a hotel uh-huh %um , why do n't you call me at work and let me know where you are ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and then we can make arrangements that day %um , that I can meet you in Amsterdam .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O"]}
+{"text": " And maybe I 'll come by , public transport .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " It 's probably easier for me to come by public transport in Amsterdam than it is for me to come by car to be honest .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " The streets are small", "label": ["O", "O", "O", "O"]}
+{"text": " and there 's no parking .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " So I probably will come by public transport", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but I do n't know .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " We 'll see where you 're staying", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um", "label": ["O"]}
+{"text": " and there 's a lot more for you guys if you want to see stuff", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " you can see stuff in Amsterdam", "label": ["O", "O", "O", "O", "O", "B-GPE"]}
+{"text": " and %uh since the days are really long ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I mean it stays light here till about ten thirty eleven o'clock mhm . at night .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME", "B-TIME", "I-TIME", "O", "O", "B-TIME", "I-TIME", "O"]}
+{"text": " So if you want we can take a ride and go see stuff at night", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME"]}
+{"text": " and I can take you to some places ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " we can %uh go see some stuff .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um , depends on what you guys want to see .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " So you guys should pick out the things you want to see and let me know .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " okay", "label": ["O"]}
+{"text": " %um and I 'll sit and talk with Anya about some things that maybe we think that it would be neat for you to see .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " So if you do n't have any ideas we 'll just put something together for you .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " %um but yeah", "label": ["O", "O", "O"]}
+{"text": " but I can pick you up th- ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " you know I 'll probably be there some time around six", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME"]}
+{"text": " and we can like do a quick dinner or something yeah and go see whatever you want to see ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " if you want to stay in Amsterdam that 's fine .", "label": ["O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O"]}
+{"text": " If you want to go %uh off into the countryside somewhere and see a little bit of , echte Holland , real Holland and we can do that too .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "B-GPE", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Actually I 've been up to Holland before .", "label": ["O", "O", "O", "O", "O", "O", "B-GPE", "O", "O"]}
+{"text": " Spent about two weeks up there .", "label": ["O", "B-DATE", "I-DATE", "I-DATE", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " So %um ,", "label": ["O", "O", "O"]}
+{"text": " but that was years and years ago .", "label": ["O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "O"]}
+{"text": " With your parents when your father was stationed over here , right ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " But we got to see Den Haag and places like that too which we 're obviously not going to see this time .", "label": ["O", "O", "O", "O", "O", "B-GPE", "I-GPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But %um", "label": ["O", "O"]}
+{"text": " has Kim been here before ?", "label": ["O", "B-PERSON", "O", "O", "O", "O"]}
+{"text": " And , an-", "label": ["O", "O", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " oh good .", "label": ["O", "O", "O"]}
+{"text": " But then again I 'm not sure that Kim would be interested in seeing Shape Headquarters and you know all that kind of stuff . those military things .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "B-FAC", "I-FAC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Would you be interested in seeing Shape Headquarters again .", "label": ["O", "O", "O", "O", "O", "O", "B-FAC", "I-FAC", "O", "O"]}
+{"text": " No . Not really .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I did n't think so .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " Somehow I had this feeling that the military taste had been beaten out of you .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yep .", "label": ["O", "O"]}
+{"text": " I 'm ,", "label": ["O", "O", "O"]}
+{"text": " the mil- ,", "label": ["O", "O", "O"]}
+{"text": " I ca n't say too bad things about the military though .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " They still have my goods", "label": ["O", "O", "O", "O", "O"]}
+{"text": " and they 'll probably hold them hostage .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And they own my body and soul for like another four years", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE"]}
+{"text": " so I just got to pray that they", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh do they ?", "label": ["O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I owe four years in active reserve time .", "label": ["O", "O", "B-DATE", "I-DATE", "O", "O", "O", "O", "O"]}
+{"text": " aw great .", "label": ["O", "O", "O"]}
+{"text": " Do they do that to everyone ?", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Milo , get out of there", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " yeah -- -- %eh everyone %uh who has n't been like you were", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " you went through like the thirty six two process .", "label": ["O", "O", "O", "O", "O", "B-CARDINAL", "I-CARDINAL", "B-CARDINAL", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " So you do n't have it", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " but yeah if you just separate normally and you have n't served at least eight years , then you owe it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "O", "O", "O", "O", "O", "O"]}
+{"text": " And that 's one of those things they just never tell you up front .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " They never said anything", "label": ["O", "O", "O", "O"]}
+{"text": " I figured there was something like that because", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And I was in the inactive reserves the entire time I was in college too .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " So .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I mean that 's the military .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I have my discharge papers and everything", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " and I 've said that yeah I will give a urine sample or a blood sample if they call me back for those , but they 're going to have to pay my trip back to the states . because there 's no bases in Holland and I 'm not going to pay out of my own expenses to go to Germany or something for them .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "I-GPE", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O", "O"]}
+{"text": " If they want me they can pay ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " bring me back active duty and pay me for the day if they 're going to drag me off somewhere .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But %uh , first they have to find me .", "label": ["O", "O", "O", "B-ORDINAL", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah , that 's the other", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " it was i- ,", "label": ["O", "O", "O", "O"]}
+{"text": " if you 're in another country I mean and you 're not planning on coming back to the U S what are they going to do even if you do n't .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "I-GPE", "I-GPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Well I mean I 'm still American citizen", "label": ["O", "O", "O", "O", "O", "O", "B-NORP", "O"]}
+{"text": " and I still would like to be welcome in my own country .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Although g-", "label": ["O", "O"]}
+{"text": " %uh I mean if they denied my citizenship and I became a citizen here I probably would n't be a horror either ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but %uh yeah", "label": ["O", "O", "O"]}
+{"text": " right now I mean I do want to keep my American citizenship", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-NORP", "O"]}
+{"text": " so .", "label": ["O", "O"]}
+{"text": " I kind of want to", "label": ["O", "O", "O", "O", "O"]}
+{"text": " Are you going to become a dual citizen ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " What 's that ?", "label": ["O", "O", "O", "O"]}
+{"text": " Are you going to try and become a dual citizen ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Have dual citizenship ?", "label": ["O", "O", "O", "O"]}
+{"text": " You ca n't do that ,", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " %um , the only way to be a dual citizen is if you 're born in a foreign country", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " like if I were born in Holland and then had American parents . Then I could be a dual citizen .", "label": ["O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "B-NORP", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But you ca n't", "label": ["O", "O", "O", "O"]}
+{"text": " If I would to ask to become a citizen in Holland I would automatically lose my American citizenship .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O", "O", "B-NORP", "O", "O"]}
+{"text": " As far as the Americans are concerned , yeah .", "label": ["O", "O", "O", "O", "B-NORP", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " The Dutch could care less .", "label": ["O", "B-NORP", "O", "O", "O", "O"]}
+{"text": " The Dutch would say fine", "label": ["O", "B-NORP", "O", "O", "O"]}
+{"text": " want to be a dual citizen ,", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " that 's fine ,", "label": ["O", "O", "O", "O"]}
+{"text": " but the Americans as soon as you ask for another citizenship that act of asking for it takes away your American citizenship .", "label": ["O", "O", "B-NORP", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-NORP", "O", "O"]}
+{"text": " I mean it 's kind of stupid .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " So I 'm an expatriot .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " An American expatriot .", "label": ["O", "B-NORP", "O", "O"]}
+{"text": " An American living abroad .", "label": ["O", "B-NORP", "O", "O", "O"]}
+{"text": " I still have to file a tax return .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Do you ?", "label": ["O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " But my first seventy five thousand dollars worth of income is tax free .", "label": ["O", "O", "B-ORDINAL", "B-MONEY", "I-MONEY", "I-MONEY", "I-MONEY", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Good grief .", "label": ["O", "O", "O"]}
+{"text": " As long as I do n't bring it back to the states .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Good grief .", "label": ["O", "O", "O"]}
+{"text": " I R S for you , %huh ?", "label": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " oh they want their share .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " They want their piece of meat .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But all foreign taxes are deductible ,", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and my taxes here are fifty percent of income .", "label": ["O", "O", "O", "O", "O", "B-PERCENT", "I-PERCENT", "O", "O", "O"]}
+{"text": " So the taxes here are so much higher that , yeah I would never have to worry about it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Unless you became C E O of the company then maybe like a thousand dollars would be taxable , right ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MONEY", "I-MONEY", "I-MONEY", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Somehow it raises a small amount .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " the problem 's going to %uh be Anya 's American salary is taxable here and at fifty percent", "label": ["O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "B-NORP", "O", "O", "O", "O", "O", "O", "B-PERCENT", "I-PERCENT"]}
+{"text": " so we 're going to owe some money to the Dutch government on her salary .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"]}
+{"text": " aw .", "label": ["O", "O"]}
+{"text": " Some amount that has to be deducted a certain amount", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and the amount we pay the American government is deductible ,", "label": ["O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "O", "O"]}
+{"text": " but we 'll still owe some taxes .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Th- ,", "label": ["O", "O"]}
+{"text": " see I do n't know how it works .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " we 're going to be in need of some sort of accountant do it cause I have no clue how that all works .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " They do n't have the Quicken Dutch version ?", "label": ["O", "O", "O", "O", "O", "B-PRODUCT", "B-LANGUAGE", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " %ah , you know I would n't trust it because it 's so complicated with this international garbage or else the Turbo Tax with the Dutch modules . that I just would n't trust it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PRODUCT", "I-PRODUCT", "I-PRODUCT", "O", "O", "B-LANGUAGE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I do n't know , %eh .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " So complicated when you 're dealing with a Dutch tax form .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-LANGUAGE", "O", "O", "O"]}
+{"text": " Anya had to read it", "label": ["B-PERSON", "O", "O", "O", "O"]}
+{"text": " and Anya and her father did n't understand the damn thing .", "label": ["O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " How am I supposed to understand it ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I 'm really looking forward to moving to Oregon and dealing with ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O"]}
+{"text": " Oregon you pay state tax", "label": ["B-GPE", "O", "O", "O", "O"]}
+{"text": " Washington you do n't .", "label": ["B-GPE", "O", "O", "O", "O"]}
+{"text": " I 'm looking forward to that cause %uh", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " but You 'll be a student", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " so you ,", "label": ["O", "O", "O"]}
+{"text": " I mean you 're", "label": ["O", "O", "O", "O"]}
+{"text": " what is your income ?", "label": ["O", "O", "O", "O", "O"]}
+{"text": " oh , well", "label": ["O", "O", "O"]}
+{"text": " See I think y- , %um ,", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " it 'll probably be about five thousand dollars the portion of this year that I 'm in Oregon", "label": ["O", "O", "O", "O", "B-MONEY", "I-MONEY", "I-MONEY", "I-MONEY", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE", "O", "O", "O", "O", "B-GPE"]}
+{"text": " and then next year it 'll be eleven thousand .", "label": ["O", "O", "B-DATE", "I-DATE", "O", "O", "O", "B-CARDINAL", "I-CARDINAL", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " But I mean you 're below the poverty line at that level .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " So I mean any income that y-", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well", "label": ["O"]}
+{"text": " But then I 've already made say like fifteen thousand or whatever here in Washington", "label": ["O", "O", "O", "O", "O", "O", "O", "B-CARDINAL", "I-CARDINAL", "I-CARDINAL", "O", "O", "O", "O", "B-GPE"]}
+{"text": " but", "label": ["O"]}
+{"text": " That should be non taxable out of state income .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " It should", "label": ["O", "O"]}
+{"text": " but you know it 's not going to be a fun tax return year .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "O"]}
+{"text": " I had that when I went into the military .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But then again .", "label": ["O", "O", "O", "O"]}
+{"text": " I had Kans- ,", "label": ["O", "O", "O", "O"]}
+{"text": " I had to file three taxes .", "label": ["O", "O", "O", "O", "B-CARDINAL", "O", "O"]}
+{"text": " I had to file Georgia , Kansas yeah and then my federal .", "label": ["O", "O", "O", "O", "B-GPE", "O", "B-GPE", "O", "O", "O", "O", "O", "O"]}
+{"text": " So .", "label": ["O", "O"]}
+{"text": " Well , %um actually I think this phone call 's just about to end cause it 's only half an hour ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME", "I-TIME", "O"]}
+{"text": " but %um", "label": ["O", "O"]}
+{"text": " So let 's see .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " I 'll give you a call when we arrive in h- ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " or maybe I 'll just call you when we get in Holland just to let you know we 're there ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " so if we get in the eighteenth or the nineteenth and then call you back %um when we get to a hotel or something like that .", "label": ["O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O", "B-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " okay that 's a great idea .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " as soon as you get into Holland and get yourself settled you can call me", "label": ["O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and %uh if it 's at night , just call Anya 's parents", "label": ["O", "O", "O", "O", "O", "O", "B-TIME", "O", "O", "O", "B-PERSON", "O", "O"]}
+{"text": " okay so", "label": ["O", "O"]}
+{"text": " and remember that if you dial in Holland you need to add a zero", "label": ["O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O", "O", "B-CARDINAL"]}
+{"text": " so like right now okay it 's one eight one zero area code .", "label": ["O", "O", "O", "O", "O", "O", "O", "B-CARDINAL", "B-CARDINAL", "B-CARDINAL", "B-CARDINAL", "O", "O", "O"]}
+{"text": " If you dial in Holland , it 's zero one eight one zero . okay in Holland", "label": ["O", "O", "O", "O", "B-GPE", "O", "O", "O", "B-CARDINAL", "B-CARDINAL", "B-CARDINAL", "B-CARDINAL", "B-CARDINAL", "O", "O", "O", "B-GPE"]}
+{"text": " and then yeah you can just call up", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " if it 's during the work hours , fine , call me at work .", "label": ["O", "O", "O", "O", "B-TIME", "I-TIME", "I-TIME", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " If not , call Anya 's parents if you do n't have a new phone number for me .", "label": ["O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And if you do , I 'll send it by email okay if I get it before this weekend", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE"]}
+{"text": " we 'll email you something", "label": ["O", "O", "O", "O", "O"]}
+{"text": " but if you do n't get email then just call Anya 's parents", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O"]}
+{"text": " If we have a phone by then , they 'll be able to give you the number", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " okay", "label": ["O"]}
+{"text": " and just remember to ask for her mother .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and it 's Goode , right", "label": ["O", "O", "O", "B-PERSON", "O", "O"]}
+{"text": " Bode", "label": ["B-PERSON"]}
+{"text": " Bode", "label": ["B-PERSON"]}
+{"text": " Bode as in abode", "label": ["B-PERSON", "O", "O", "O"]}
+{"text": " abode", "label": ["O"]}
+{"text": " minus the A", "label": ["O", "O", "O"]}
+{"text": " okay", "label": ["O"]}
+{"text": " great", "label": ["O"]}
+{"text": " and", "label": ["O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " and I think %uh %uh it 's not Frau", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %uh %ah %uh It 's Mifrau", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " is", "label": ["O"]}
+{"text": " it 's Frau in German", "label": ["O", "O", "O", "O", "B-LANGUAGE"]}
+{"text": " it 's Frau", "label": ["O", "O", "O"]}
+{"text": " mhm", "label": ["O"]}
+{"text": " and then Dutch it 's Mifrau", "label": ["O", "O", "B-LANGUAGE", "O", "O", "O"]}
+{"text": " I 'll probably never remember that", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " so hope they wo n't be offended .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " nah do n't worry about it .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " You can just call her Missus", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " you can just call her Missus and speak English to her .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-LANGUAGE", "O", "O", "O"]}
+{"text": " she understands", "label": ["O", "O"]}
+{"text": " just talk slowly and clearly .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " okay", "label": ["O"]}
+{"text": " and once you 're in Holland the line will be really clear .", "label": ["O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I mean the phones here are pretty good . once you 're in the country .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " It 's just these to America", "label": ["O", "O", "O", "O", "O", "B-GPE"]}
+{"text": " it 's always kind of iffy", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " I just got back from the gym .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh good .", "label": ["O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " How 's it going ?", "label": ["O", "O", "O", "O", "O"]}
+{"text": " oh pretty well .", "label": ["O", "O", "O", "O"]}
+{"text": " It was really crowded today .", "label": ["O", "O", "O", "O", "B-DATE", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I kind of assumed everyone would be at the shore .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " I was wrong .", "label": ["O", "O", "O", "O"]}
+{"text": " Well it 's the middle of the week or whatever", "label": ["O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE", "O", "O"]}
+{"text": " so .", "label": ["O", "O"]}
+{"text": " But it 's the fourth of July .", "label": ["O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " So .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " People have to work tomorrow .", "label": ["O", "O", "O", "O", "B-DATE", "O"]}
+{"text": " Do you have to work tomorrow ?", "label": ["O", "O", "O", "O", "O", "B-DATE", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Did you have off yesterday ?", "label": ["O", "O", "O", "O", "B-DATE", "O"]}
+{"text": " Yes .", "label": ["O", "O"]}
+{"text": " oh that 's good .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " And I was paid too .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " Is it paid today ?", "label": ["O", "O", "O", "B-DATE", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " But %uh", "label": ["O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " so the gym 's going well .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " But I still need to go more often .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well how often are you going ?", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Only four days a week .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " .", "label": ["O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Got to get that up to five .", "label": ["O", "O", "O", "O", "O", "O", "B-CARDINAL", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " But , I do n't really like going with Anne Marie because she does n't like to stay very long .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "I-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Why ?", "label": ["O", "O"]}
+{"text": " I do n't know .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " She kind of ,", "label": ["O", "O", "O", "O"]}
+{"text": " well unfortunately for some reason she 's not like into cardio vascular .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " So when I 'm still riding the bike she 's completely finished her weight lifting routine .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " And like I have n't even started mine . mhm . You know", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and I kind of hinted to her that really the only way to lose weight is cardio vascular . mhm . It 's true . And that lifting the weights wo n't lose weight .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm %mm .", "label": ["O", "O", "O"]}
+{"text": " You wo n't lose it , you know ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but", "label": ["O"]}
+{"text": " No", "label": ["O"]}
+{"text": " I mean you might lose some", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " but that 's only when yo- .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " For a woman who is lifting not that much I do n't think yeah . You would .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I mean yeah", "label": ["O", "O", "O"]}
+{"text": " I mean the only thing is %um just getting your heart rate up for extended periods of time .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " So I do n't know", "label": ["O", "O", "O", "O", "O"]}
+{"text": " maybe she 'll catch on soon .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " You do burn a lot of calories an hour though , lifting weights .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " But %uh", "label": ["O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " I mean I do n't think you 're going to lose that much .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and also lifting weights at Bally 's means you 're standing on line for as much time as you 're actually lifting .", "label": ["O", "O", "O", "O", "O", "B-FAC", "I-FAC", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Really .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " That 's too bad .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " So is it really overcrowded ?", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " Well , I mean obviously since I work I ca n't get there until about six o'clock at night which is when everyone else gets there .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME", "I-TIME", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " But I 'm sure for people who go in the daytime it 's probably dead . yeah . You know", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and %um , like when I go Saturday and Sunday mornings it 's totally dead .", "label": ["O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME", "I-TIME", "I-TIME", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " So", "label": ["O"]}
+{"text": " But you know the weeknights is pretty crazy .", "label": ["O", "O", "O", "B-TIME", "I-TIME", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " I found a gym yesterday here that 's only eight pounds a month which is like twelve dollars , twelve fifty", "label": ["O", "O", "O", "O", "B-DATE", "O", "O", "O", "O", "B-MONEY", "I-MONEY", "O", "O", "O", "O", "O", "B-MONEY", "I-MONEY", "O", "B-CARDINAL", "B-CARDINAL"]}
+{"text": " oh yeah .", "label": ["O", "O", "O"]}
+{"text": " Wow .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " It 's at the hospital nearby .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well that 's a deal .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " So uh-huh . I think %um tonight Charlie and I are going to go over and join up .", "label": ["O", "O", "O", "O", "O", "O", "B-TIME", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Even Charlie 's going to join ?", "label": ["O", "B-PERSON", "O", "O", "O", "O", "O"]}
+{"text": " No ,", "label": ["O", "O"]}
+{"text": " but it has to be debited from a bank account so it 's got to be debited from his .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " In your letter you said that he eats constantly .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh my god .", "label": ["O", "O", "O", "O"]}
+{"text": " Really ?", "label": ["O", "O"]}
+{"text": " Alice , I 've never seen anybody eat as much as he does", "label": ["B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and he 's so skinny .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " I mean the amount of cereal he eats like between meals and after meals", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " and we go through a box of cereal every two days .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "O"]}
+{"text": " Really ?", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Wow .", "label": ["O", "O"]}
+{"text": " He eats at least like four of cereal a day like in addition to like meals .", "label": ["O", "O", "O", "O", "O", "B-CARDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh", "label": ["O"]}
+{"text": " And when he goes to work he brings four sandwiches with him , uh-huh . a bag of potato chips uh-huh . %um you know and then little sweetie things chocolates and **cakies** and stuff like that .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-CARDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh", "label": ["O"]}
+{"text": " And then you know before he leaves every morning he has like two fried eggs mhm on toast with cheese %um vegetarian sausages %um and like fruit", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CARDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and oh my god it 's just crazy .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " It 's crazy how much he eats .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " He was probably starving when he was here .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I think what we got to do is just when he comes just have lots of cereal .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " He likes Cocoa Pops .", "label": ["O", "O", "B-PRODUCT", "I-PRODUCT", "O"]}
+{"text": " oh boy .", "label": ["O", "O", "O"]}
+{"text": " Wow .", "label": ["O", "O"]}
+{"text": " That 's pretty crazy .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " It 's all about being a blue collar man .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I guess so .", "label": ["O", "O", "O", "O"]}
+{"text": " They 're the ones who can eat all day .", "label": ["O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME", "O"]}
+{"text": " Really ?", "label": ["O", "O"]}
+{"text": " Well I mean he does work his ass off", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " so", "label": ["O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " But %uh 291.01_291.28_B: %hm .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " So , I assume it 's hard for you not to eat as much as he does .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " I learned quick fast in a hurry because I 've gained so much weight .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh really ?", "label": ["O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Actually in the first week I was here -- mhm . -- I gained a lot", "label": ["O", "O", "B-DATE", "I-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " so .", "label": ["O", "O"]}
+{"text": " Well it 's hard to you know not eat when somebody else is eating .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well I 'm figuring it out fast because -- okay -- with not working out and all yeah . it 's pretty miserable my crunch tape .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " So I called this woman today", "label": ["O", "O", "O", "O", "O", "B-DATE"]}
+{"text": " and %um , she 's a dressmaker", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and we 're going to go see her next Thursday and talk about her making my wedding dress .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Slate green .", "label": ["O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " %uh .", "label": ["O", "O"]}
+{"text": " See , that way I can have exactly what I want .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Exactly .", "label": ["O", "O"]}
+{"text": " And it 's only going to be about two hundred and fifty pounds which is about three hundred and fifty dollars .", "label": ["O", "O", "O", "O", "O", "O", "O", "B-MONEY", "I-MONEY", "I-MONEY", "I-MONEY", "I-MONEY", "I-MONEY", "O", "O", "B-MONEY", "I-MONEY", "I-MONEY", "I-MONEY", "I-MONEY", "I-MONEY", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " So it 's pretty good I mean comparatively .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " And it 'll be exactly what I want", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and it 'll look good on me , you know like fit me , Sure . which is necessary at the moment because I 'm plump", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " so .", "label": ["O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " Now , daddy got %um the invitations together for you today .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " And in it I put , %um paint samples from Sherwin Williams uh-huh . of all the different like shades of what color I thought you might be thinking of for the bride 's maids .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " oh I already told them all black", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but dad does n't want black he said .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Mom and dad wo n't have black .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " They do n't want black ?", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " They 're really opposed to it .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Did you call Sharon and tell her that ?", "label": ["O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " Could you do that ?", "label": ["O", "O", "O", "O", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " Could you call Kate and tell her that ?", "label": ["O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Just say you know my parents are really opposed to black .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " They wo n't buy me a black dress .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " They wo n't ?", "label": ["O", "O", "O", "O"]}
+{"text": " Here wait .", "label": ["O", "O", "O"]}
+{"text": " Let me look for my phonebook .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " Never mind .", "label": ["O", "O", "O"]}
+{"text": " I can just open the thing here .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Now wait .", "label": ["O", "O", "O"]}
+{"text": " What ,", "label": ["O", "O"]}
+{"text": " god we got so much furniture in this tiny apartment .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " It 's crazy .", "label": ["O", "O", "O", "O"]}
+{"text": " There 's drawers everywhere , to figure out where everything is .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " Let me give you Kate 's phone number .", "label": ["O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O"]}
+{"text": " You can just leave a message .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " two one , two one two uh-huh . two two six uh-huh . O one two five .", "label": ["B-CARDINAL", "B-CARDINAL", "O", "B-CARDINAL", "B-CARDINAL", "B-CARDINAL", "O", "O", "B-CARDINAL", "B-CARDINAL", "B-CARDINAL", "O", "O", "B-CARDINAL", "B-CARDINAL", "B-CARDINAL", "B-CARDINAL", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " I 'll do that .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " But %uh ,", "label": ["O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " apparently like at Lisa Manachi 's wedding like the whole night people were talking about how bad the black dresses were .", "label": ["O", "O", "O", "B-PERSON", "I-PERSON", "I-PERSON", "O", "O", "B-TIME", "I-TIME", "I-TIME", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Really ?", "label": ["O", "O"]}
+{"text": " Like everyone at mom and dad 's table .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Who was at mom and dad 's table ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Weirdo", "label": ["O"]}
+{"text": " just all of Lorraine 's friends . mhm . Who you know of course most of them mom and dad had at least met once before .", "label": ["O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " But %uh", "label": ["O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " and Adele still talks about the black dress .", "label": ["O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " What ?", "label": ["O", "O"]}
+{"text": " How hideous they were .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " Adele was n't at Lisa Manachi 's .", "label": ["B-PERSON", "O", "O", "O", "B-PERSON", "I-PERSON", "I-PERSON", "O"]}
+{"text": " Adele went to the mass wedding .", "label": ["B-PERSON", "O", "O", "O", "O", "O", "O"]}
+{"text": " She did ?", "label": ["O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " And she wanted me to take her", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and I refused to go", "label": ["O", "O", "O", "O", "O"]}
+{"text": " and she got mad .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " Really ?", "label": ["O", "O"]}
+{"text": " Well I said I would not feel comfortable going .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I was not invited . mhm . You know", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and mom and dad were like well you know a wedding that 's a mass is open to everyone .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I was like well that 's fine", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but I would not feel comfortable going .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " I think that would be obnoxious", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " and I think they would then feel guilty for not inviting me .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Right .", "label": ["O", "O"]}
+{"text": " To -- -- you know the other thing , the reception .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I just would n't go .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " So they had to take it down and drive her home .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " So they 're always kind of pissy at me .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm . That 's okay .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I mean I 've been thinking about it", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and the black 's not going to be so hot you know", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but", "label": ["O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Apparently they were also carrying lillies which is kind of goofy .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Well I guess she did that because someone suggested that to her because you know the lillies the symbol of the virgin Mary .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " White lillies ?", "label": ["O", "O", "O"]}
+{"text": " White lillies and black dresses .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " %mm , my goodness .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " That 's funny .", "label": ["O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Adele was carrying on that she thought she was at a funeral", "label": ["B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and she had to keep reminding herself .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " So now you think my wedding 's going to be pretty tasteful right ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But", "label": ["O"]}
+{"text": " oh yeah .", "label": ["O", "O", "O"]}
+{"text": " Now what about the matchbooks ?", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " Well I 'll work on it .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I still think about the matchbooks .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I 'll tell dad that you still think about the", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I have n't forgotten those", "label": ["O", "O", "O", "O", "O"]}
+{"text": " and they 'll still be enough time when I come home for me to order those .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I 'll have remind him of that little -- -- item .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " %huh how fun- .", "label": ["O", "O", "O", "O"]}
+{"text": " You know I was talking to my friend Heather from Wisconsin the other day --", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "B-GPE", "O", "O", "O", "O"]}
+{"text": " -- and she 's telling me about you know her sister 's wedding .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And at her sister 's wedding %uh , they provided champagne and beer .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But if you wanted any other kind of drink you had to pay for it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " that 's actually kind of common", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " but -- oh it is . it 's pretty de classe .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well I kind of thou- ,", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " I mean of course I did n't say anything to her .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " You know I said as far as I knew we were n't charging people .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Now", "label": ["O"]}
+{"text": " But %uh ,", "label": ["O", "O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " Dad and I went to buy the wine the other day .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And there were having a sale on the wine dad wanted .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Are you talking to me ?", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " Of course I 'm talking to you .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I can hardly hear you .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " I thought you were talking to somebody else and like put the phone down or something .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I 'm talking to you .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " No dad told me that .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " oh he did tell you .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " It 's all Chilean .", "label": ["O", "O", "O", "B-NORP", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Walnut Crest or Walnut Creek or -- %mm . -- something like that .", "label": ["B-ORG", "I-ORG", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I do n't know .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " There 's a pretty good sale . %mm . So now we have to keep our eyes open for a champagne sale .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " An- ,", "label": ["O", "O"]}
+{"text": " do you know if Jack called Spencer yet ?", "label": ["O", "O", "O", "O", "B-PERSON", "O", "B-PERSON", "O", "O"]}
+{"text": " I told him this morning to do it this week .", "label": ["O", "O", "O", "B-TIME", "I-TIME", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " And he just keeps forgetting .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " But o-", "label": ["O", "O"]}
+{"text": " How 's he doing ?", "label": ["O", "O", "O", "O", "O"]}
+{"text": " Much better .", "label": ["O", "O", "O"]}
+{"text": " yeah ?", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " he 's often chipper .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " He went for a walk this morning at five seventeen .", "label": ["O", "O", "O", "O", "O", "B-TIME", "I-TIME", "I-TIME", "I-TIME", "I-TIME", "O"]}
+{"text": " Pe-", "label": ["O"]}
+{"text": " oh my god .", "label": ["O", "O", "O", "O"]}
+{"text": " Is that because he 's not sleeping and", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well because he could n't breathe because all the cats were in the bedroom .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " So I think it 's time to give all the cats a bath .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " and the- ,", "label": ["O", "O", "O"]}
+{"text": " you should do that .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " I know .", "label": ["O", "O", "O"]}
+{"text": " It 's a two person job though .", "label": ["O", "O", "O", "B-CARDINAL", "O", "O", "O", "O"]}
+{"text": " I 'll have to get somebody to help me .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm . yeah .", "label": ["O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " But %um , guessed what happened .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " What ?", "label": ["O", "O"]}
+{"text": " %um The %um", "label": ["O", "O", "O"]}
+{"text": " Again ?", "label": ["O", "O"]}
+{"text": " %um 118.91_120.82_B: Let 's see ,", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " two weeks ago", "label": ["B-DATE", "I-DATE", "I-DATE"]}
+{"text": " I know Sue is going to Rhode Island .", "label": ["O", "O", "B-PERSON", "O", "O", "O", "B-GPE", "I-GPE", "O"]}
+{"text": " %eh Right .", "label": ["O", "O", "O"]}
+{"text": " Right .", "label": ["O", "O"]}
+{"text": " Did she see her mom ?", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " Yes she did .", "label": ["O", "O", "O", "O"]}
+{"text": " And ?", "label": ["O", "O"]}
+{"text": " Yes she did .", "label": ["O", "O", "O", "O"]}
+{"text": " And ?", "label": ["O", "O"]}
+{"text": " %um , %um , which we had already anticipated that it was going to happen .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I spoke to her mom on Thursday", "label": ["O", "O", "O", "O", "O", "O", "B-DATE"]}
+{"text": " %um and I asked her", "label": ["O", "O", "O", "O", "O"]}
+{"text": " I said listen", "label": ["O", "O", "O"]}
+{"text": " I said %um please come to Shabbat", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " things have come to a point where I may have to relinquish my , %uh parenting .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %uh would you mind %uh taking her back", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and she said no .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " She said %uh she 'd be more than happy to .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Really ?", "label": ["O", "O"]}
+{"text": " This girl has everything in her dreams you know .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " it is as my husband says %uh , %uh al kadir the destiny .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Selema I 'm telling you ,", "label": ["B-PERSON", "O", "O", "O", "O", "O"]}
+{"text": " it is like Allah has just painted the road", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and all I had to do was get on it and follow it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I mean things have been happening that has just scared the heck out of me .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I told mom", "label": ["O", "O", "O"]}
+{"text": " I said mom it is when you believe in Allah , when you have faith and know when you truly give your heart to Allah , only Allah can make the way clear for you .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %uh .", "label": ["O", "O"]}
+{"text": " I believe that by her birthday she will be living with her mother .", "label": ["O", "O", "O", "O", "B-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Really ?", "label": ["O", "O"]}
+{"text": " mhm mhm .", "label": ["O", "O", "O"]}
+{"text": " and is she seem like she 's together enough ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " she 's in a two year program .", "label": ["O", "O", "O", "O", "B-DATE", "I-DATE", "O", "O"]}
+{"text": " She 's in the program now .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She 's doing very well .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " When I talked to her I 'm talking to her like I 'm talking to you .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I wrote her a letter and told her", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I said I feel like I know you even though I never met you .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " They seemed surprised that ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " I mean most women you lose your baby that 's it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But almighty God is", "label": ["O", "O", "O", "O"]}
+{"text": " You never even get a chance to see them again .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " That 's true .", "label": ["O", "O", "O", "O"]}
+{"text": " That 's true .", "label": ["O", "O", "O", "O"]}
+{"text": " But that 's what she had wrote me .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " she said it is just awesome to her what is happening .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yup .", "label": ["O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " aw I 've heard of that .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yup .", "label": ["O", "O"]}
+{"text": " So Francis", "label": ["O", "B-PERSON"]}
+{"text": " Did she say how she felt about what had happened ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " we have n't really talked about that", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but I 'm planning on making a trip down to visit her .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well , how does Akina feel ?", "label": ["O", "O", "O", "O", "B-PERSON", "O", "O"]}
+{"text": " she 's , very happy about it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Very ha-", "label": ["O", "O"]}
+{"text": " Well did she come home and say I saw her , I look like her or what ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " we talked on the phone", "label": ["O", "O", "O", "O", "O"]}
+{"text": " and you know she talked about %um her sisters you know and things", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " we 've spent the night with her sisters and things", "label": ["O", "O", "O", "O", "B-TIME", "O", "O", "O", "O", "O"]}
+{"text": " and %um it 's just been quite interesting although when she was in Rhode Island she was very disruptive , %um down there and really caused Francis a lot of stress", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "I-GPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O"]}
+{"text": " and %um Francis was very worried about me because she came home two weeks before you know %um because she just was acting like a total nigger child .", "label": ["O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-oh !", "label": ["O", "O"]}
+{"text": " Hope the research did n't hear that !", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-oh !", "label": ["O", "O"]}
+{"text": " wait", "label": ["O"]}
+{"text": " wait", "label": ["O"]}
+{"text": " Alita I 'm telling you nobody can handle her but you , okay .", "label": ["B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And %um ,", "label": ["O", "O", "O"]}
+{"text": " but she was very concerned about me and everything %um because %um the child had told some lies about me and about you .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " oh 296.72_297.91_A: oh no .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " And about", "label": ["O", "O"]}
+{"text": " oh yeah mhm", "label": ["O", "O", "O"]}
+{"text": " oh goodness .", "label": ["O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " That we were abusing ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " that %um you know ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " oh yeah", "label": ["O", "O"]}
+{"text": " she did some %eh ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " and it was very , very bad .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " My daughter - in - law Barbara got on her case real serious yesterday .", "label": ["O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "B-DATE", "O"]}
+{"text": " Told her that she could n't talk to Jasmine play with Jasmine because she said she hurt Jasmine 's Jetta you know", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "B-PERSON", "O", "B-PERSON", "O", "O"]}
+{"text": " and she said that if it was n't for Jetta you know Jasmine 's daddy would n't be", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "B-PERSON", "O", "O", "O", "O", "O"]}
+{"text": " oh she 'd", "label": ["O", "O", "O"]}
+{"text": " oh man %uh it was", "label": ["O", "O", "O", "O", "O"]}
+{"text": " aw .", "label": ["O", "O"]}
+{"text": " You know that has always been very scary to me even after .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I said to Mark oh my god . What 's she going to say", "label": ["O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " because I knew what she would do if I took her somewhere you know what she would say", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and I ,", "label": ["O", "O", "O"]}
+{"text": " you know in the climate of today , Yes . people saying something like that .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " That well ,", "label": ["O", "O", "O"]}
+{"text": " you know that 's", "label": ["O", "O", "O", "O"]}
+{"text": " and Francis was very concerned in reference to you know she was in school and things", "label": ["O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and she was very , very concerned .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Alita she said this little girl has a serious problem .", "label": ["B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She wrote me a letter mhm . you know about her needing a lot of love , a lot of %um help and different things like this ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but you know you 've heard the saying I 'm sure from your grandmother", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " the sins of your parents will be waged back at you , %hm . you know ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um and again my husband said we were going to give it a month , you know and said he was even going to have to sheik pray over her , you know for the jen .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " You know , I mean , we 're d- , you know ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and I think we 're still going to be doing that", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but I think he 's at a point now where he 's reserved us of that %um , you know that she may end up going %um to %uh t-", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh well the thing is your whole life has been around her mhm . more or less", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm . mhm .", "label": ["O", "O", "O", "O"]}
+{"text": " I mean it is you know I mean absorbed", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm . mhm .", "label": ["O", "O", "O", "O"]}
+{"text": " where is , you know", "label": ["O", "O", "O", "O", "O"]}
+{"text": " mhm %mm .", "label": ["O", "O", "O"]}
+{"text": " and you know , I mean", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " this is a lousy", "label": ["O", "O", "O", "O"]}
+{"text": " %eh I truly believe that **Salem**", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " I do n't think ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " you think she 'll be better with her mother ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I have no idea .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " I really have no idea .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " But", "label": ["O"]}
+{"text": " %um , but you know the ,", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " if this does happen and I do believe it may happen , %um you know we will have an agreement , she and I , you know ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um she will become the legal guardian and that %um", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %uh you know I just want her to understand everything that has happened in the last several years yeah . and things like that .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She needs to be clear about that because this child wo n't be like the other two .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CARDINAL", "O"]}
+{"text": " %eh %eh You know , %um Well , she said that she was .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Andre said that she was .", "label": ["B-PERSON", "O", "O", "O", "O", "O"]}
+{"text": " oh yeah .", "label": ["O", "O", "O"]}
+{"text": " She was like her two daughters ,", "label": ["O", "O", "O", "O", "B-CARDINAL", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " they had the same , maybe just", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " problems and different ,", "label": ["O", "O", "O", "O"]}
+{"text": " she has n't been with her children for ten years .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O"]}
+{"text": " Her , or her two girls .", "label": ["O", "O", "O", "O", "B-CARDINAL", "O", "O"]}
+{"text": " %ah .", "label": ["O", "O"]}
+{"text": " And they 're twelve and ,", "label": ["O", "O", "O", "B-DATE", "O", "O"]}
+{"text": " no they 're nine and thirteen or something like that .", "label": ["O", "O", "O", "B-DATE", "O", "B-DATE", "O", "O", "O", "O", "O"]}
+{"text": " yup ,", "label": ["O", "O"]}
+{"text": " but she 's working very hard .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She 's trying to become a counselor in this drug program , and things", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and she sounds like she 's really trying hard .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and I just believe it 's you know time , you know", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and , who would have ever thought it though ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " you know what I mean ?", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " Does she know that you 're Muslim ?", "label": ["O", "O", "O", "O", "O", "O", "B-NORP", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " uh-huh", "label": ["O"]}
+{"text": " yup .", "label": ["O", "O"]}
+{"text": " yup .", "label": ["O", "O"]}
+{"text": " yup", "label": ["O"]}
+{"text": " %um So that 's been my most interesting things in the last three weeks .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "O"]}
+{"text": " oh that 's some deep ,", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " that 's just too deep .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " yup .", "label": ["O", "O"]}
+{"text": " yup .", "label": ["O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " yup .", "label": ["O", "O"]}
+{"text": " Been very , very , very , heavy .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " like mom said she said even if it was going to be in September , she said the little things I can tolerate you know if that happens you know .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But you know I always worried", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " you know even after you left I said , I just hope Arlita knows that you know I tried my best you know", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and Everybody has to keep them , Selema , everybody , everybody You know ,", "label": ["O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and I told her", "label": ["O", "O", "O", "O"]}
+{"text": " I said you know it 's a shame that you ca n't go no place and I can get a good report on you you know , %um , and by her going to Francis and things , and Francis seeing for herself ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O"]}
+{"text": " she was like whoa .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " did Francis feel she had changed a lot ?", "label": ["O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh yes .", "label": ["O", "O", "O"]}
+{"text": " t- ,", "label": ["O", "O"]}
+{"text": " oh yes .", "label": ["O", "O", "O"]}
+{"text": " You know , mhm , mhm .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " a- ,", "label": ["O", "O"]}
+{"text": " %ah .", "label": ["O", "O"]}
+{"text": " %um , %um , but you know I feel very at peace about everything .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " I feel very at peace you know .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well it 's good to hear from Francis who 's had a lot of child-", "label": ["O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Yes .", "label": ["O", "O"]}
+{"text": " Over six hundred .", "label": ["B-CARDINAL", "I-CARDINAL", "I-CARDINAL", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " Over six hundred foster children .", "label": ["B-CARDINAL", "I-CARDINAL", "I-CARDINAL", "O", "O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " Yes .", "label": ["O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " You know she would 've seen it all .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She called mom to talk to mom", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " let 's see she bought ,", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " I met her in Albany", "label": ["O", "O", "O", "O", "B-GPE"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " and she bought her", "label": ["O", "O", "O", "O"]}
+{"text": " %um she caught ,", "label": ["O", "O", "O", "O"]}
+{"text": " that was on Friday last Friday", "label": ["O", "O", "O", "B-DATE", "I-DATE", "I-DATE"]}
+{"text": " she called mom Monday And talked to mom for two hours", "label": ["O", "O", "O", "B-DATE", "O", "O", "O", "O", "O", "B-TIME", "I-TIME"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " She talked to mom here in Rochester .", "label": ["O", "O", "O", "O", "O", "O", "B-GPE", "O"]}
+{"text": " oh you 're kidding", "label": ["O", "O", "O", "O"]}
+{"text": " I was sick up in Syracuse .", "label": ["O", "O", "O", "O", "O", "B-GPE", "O"]}
+{"text": " She talked to mom .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " something must 've been on her mind .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " she told mom", "label": ["O", "O", "O"]}
+{"text": " she said she was so concerned that this little girl was going to just get out here cause I was n't going to send back to the school , the Muslim school .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-NORP", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " And she was just really concerned about you know everything . mhm you know . What the possibilities of like", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Sure .", "label": ["O", "O"]}
+{"text": " Sure .", "label": ["O", "O"]}
+{"text": " yep .", "label": ["O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " Well you know or luck making a way and making it at ease for you to", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well you know why Allah is doing this .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I 'm going to tell you why", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " because my daughter - in - law is pregnant again .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh no !", "label": ["O", "O", "O"]}
+{"text": " She said she was going to call you .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She said she was going to call you .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %ah", "label": ["O"]}
+{"text": " I said well you call Selema", "label": ["O", "O", "O", "O", "O", "B-PERSON"]}
+{"text": " and you tell her .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " I said oh and I do n't have your number in my other phonebook I said .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I said you just call her and tell her", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yup she sure is .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " oh my goodness .", "label": ["O", "O", "O", "O"]}
+{"text": " Goodness .", "label": ["O", "O"]}
+{"text": " Wait ,", "label": ["O", "O"]}
+{"text": " wait ,", "label": ["O", "O"]}
+{"text": " did they do like %uh the same thing they had to do last time ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " You know what ?", "label": ["O", "O", "O", "O"]}
+{"text": " That same thing happened to Aliah .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " She had to take all that stuff the first time", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-ORDINAL", "O"]}
+{"text": " but then the second time", "label": ["O", "O", "O", "B-ORDINAL", "O"]}
+{"text": " Nope .", "label": ["O", "O"]}
+{"text": " She", "label": ["O"]}
+{"text": " yup .", "label": ["O", "O"]}
+{"text": " yup .", "label": ["O", "O"]}
+{"text": " j- , j- ,", "label": ["O", "O", "O", "O"]}
+{"text": " %uh , and mom said ,", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " I mean Jasmine was about two months old", "label": ["O", "O", "B-PERSON", "O", "O", "B-DATE", "I-DATE", "I-DATE"]}
+{"text": " mom said oh goodness .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " %eh , I mean cause Jasmine is not nowhere like my other little babies .", "label": ["O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She is not cuddly sweet .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " %mm , %mm , no w-", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " She do n't have time for that %uh .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She does not sit still or lay still for you to change her Pampers .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PRODUCT", "O"]}
+{"text": " This little girl moves .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " I mean you lay her down on the bed", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " she gets up", "label": ["O", "O", "O"]}
+{"text": " and she runs from ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " well she does n't run", "label": ["O", "O", "O", "O", "O"]}
+{"text": " but she crawls real fast .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " And she has t- aw", "label": ["O", "O", "O", "O", "O"]}
+{"text": " And you 're like okay .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " And she 's not a cuddly sweet little thing ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " she ,", "label": ["O", "O"]}
+{"text": " and she climbs up the stairs , Selema .", "label": ["O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O"]}
+{"text": " She 's seven months old", "label": ["O", "O", "B-DATE", "I-DATE", "I-DATE"]}
+{"text": " and she 's climbing up the stairs .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Climbs down the stairs", "label": ["O", "O", "O", "O"]}
+{"text": " and mom said so we found out ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " when did we find out Barbara was pregnant ?", "label": ["O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O"]}
+{"text": " Last week , we found out", "label": ["B-DATE", "I-DATE", "O", "O", "O", "O"]}
+{"text": " and mom told her", "label": ["O", "O", "O", "O"]}
+{"text": " mom said , Barbara , Jasmine is just moving", "label": ["O", "O", "O", "B-PERSON", "O", "B-PERSON", "O", "O", "O"]}
+{"text": " she 's moving out the way too quickly", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " she just was not a little sweet little cuddly you know ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " no way", "label": ["O", "O"]}
+{"text": " %uh lay there let me look at my grandmother kind of thing", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " No no way", "label": ["O", "O", "O"]}
+{"text": " not one bit .", "label": ["O", "O", "O", "O"]}
+{"text": " oh oh Amway is probably going to have a rule though I could just", "label": ["O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um , how are you guys ?", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " How is Chris", "label": ["O", "O", "B-PERSON"]}
+{"text": " and how are you ?", "label": ["O", "O", "O", "O", "O"]}
+{"text": " Well pretty well .", "label": ["O", "O", "O", "O"]}
+{"text": " Chris is not here at the moment .", "label": ["B-PERSON", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She 's been away with her class oh . up around Blandenburg for about two weeks on a , what they call Feldmessen .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "B-DATE", "I-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Feldmessen is , %um , surveying .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " %uh , so she 's been away for two weeks .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O"]}
+{"text": " She 's coming back tonight .", "label": ["O", "O", "O", "O", "B-TIME", "O"]}
+{"text": " ha .", "label": ["O", "O"]}
+{"text": " So we 're looking forward to that .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh , I 'm sorry we 're going to miss her .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " oh gosh . I bet you 're getting lonely .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " well . Claudia 's been here", "label": ["O", "O", "B-PERSON", "O", "O", "O"]}
+{"text": " and we 've been doing okay .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " And I 'm actually waiting for Claudia to show up because we were supposed to go into town and meet some people in town .", "label": ["O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I 've got a student here who 's checking out rooms and stuff .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " She 's coming in the fall ,", "label": ["O", "O", "O", "O", "O", "B-DATE", "O"]}
+{"text": " but she was in a place called Taiwa .", "label": ["O", "O", "O", "O", "O", "O", "O", "B-GPE", "O"]}
+{"text": " You know Tufts yeah . sent her to Taiwa", "label": ["O", "O", "B-ORG", "O", "O", "O", "O", "O", "B-GPE"]}
+{"text": " I had friends there . She did a course in Taiwa", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE"]}
+{"text": " and then she came over here , and %um , checked out a room here .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And so it 's", "label": ["O", "O", "O", "O"]}
+{"text": " and the end semester is still going .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Of course it ends on the twenty second of July .", "label": ["O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " So , %uh oh , yeah . things are busy .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " gosh .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " You still got another month .", "label": ["O", "O", "O", "O", "B-DATE", "O"]}
+{"text": " And then , are you coming over to the States at all this summer ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "B-DATE", "I-DATE", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " No .", "label": ["O", "O"]}
+{"text": " No , no . %uh", "label": ["O", "O", "O", "O", "O"]}
+{"text": " Not even Chris ?", "label": ["O", "O", "B-PERSON", "O"]}
+{"text": " No , no , no . %uh", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Not enough relatives left here anymore ?", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well the relative scene is kind of sad .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " You know everybody 's kind of passed away , almost .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " I remember when I talked to you in the fall yeah . yeah . that %uh", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O", "O", "O", "O", "O", "O"]}
+{"text": " It 's just about", "label": ["O", "O", "O", "O"]}
+{"text": " oh did your sister die ?", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " My sister passed away ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I do n't know if you spoke to me before that or when it was that was happening . Or", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I guess not", "label": ["O", "O", "O"]}
+{"text": " When was it ?", "label": ["O", "O", "O", "O"]}
+{"text": " It may have been right after .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well", "label": ["O"]}
+{"text": " My father died right after we talked .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh god .", "label": ["O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " we 're getting old .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " No , it 's ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " I do n't know what it is .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " It 's just , %uh , people get sick ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and they get sick pretty young ,", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and ,", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " And you know my sister was n't that old", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and she just had bad luck I guess is all you can say .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I 'm going to put you on after fifteen minutes .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME", "O"]}
+{"text": " I 've got to", "label": ["O", "O", "O", "O"]}
+{"text": " And there was n't anything anybody could do .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " So .", "label": ["O", "O"]}
+{"text": " And then an aunt of Chris 's Aunt Mamie up in Maine passed away .", "label": ["O", "O", "O", "O", "O", "B-PERSON", "O", "O", "B-PERSON", "O", "O", "B-GPE", "O", "O", "O"]}
+{"text": " that had n't happ- ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " had that happened already ?", "label": ["O", "O", "O", "O", "O"]}
+{"text": " No", "label": ["O"]}
+{"text": " No that had not happened , no .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She passed away in about March or", "label": ["O", "O", "O", "O", "B-DATE", "I-DATE", "O"]}
+{"text": " yeah , I think that there was some concern about her when I talked to you in September or October .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "O", "B-DATE", "O"]}
+{"text": " .", "label": ["O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " No , she was not doing well .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She had a brain tumor .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " And then they operated on", "label": ["O", "O", "O", "O", "O"]}
+{"text": " and things were n't going well ,", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and .", "label": ["O", "O"]}
+{"text": " I actually got to see her I guess a day before she died .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " I mean she did n't know that I was there .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " if that was you , yeah . yeah , she was just not in", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " So it was a blessing , I guess .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But , %um .", "label": ["O", "O", "O", "O"]}
+{"text": " Anyway , weird stuff .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " And how about you ?", "label": ["O", "O", "O", "O", "O"]}
+{"text": " Because , I r-", "label": ["O", "O", "O", "O"]}
+{"text": " oh I 'm han-", "label": ["O", "O", "O", "O"]}
+{"text": " how are your eyes ?", "label": ["O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Well , I do n't know .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I have to go next week you know to see again .", "label": ["O", "O", "O", "O", "B-DATE", "I-DATE", "O", "O", "O", "O", "O", "O"]}
+{"text": " I , %um , not exactly convinced that . It 's okay . You know ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I 'm not sure .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " %uh , it 's been pretty good .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " It was about eighty percent for a while .", "label": ["O", "O", "O", "B-PERCENT", "I-PERCENT", "O", "O", "O", "O"]}
+{"text": " And then %um , I 'm not exactly sure what it is now .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But I 'll know in a couple of days .", "label": ["O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "O"]}
+{"text": " So are you having blurred vision ?", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Or", "label": ["O"]}
+{"text": " oh yeah , yeah .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " Sure .", "label": ["O", "O"]}
+{"text": " The right eye is %uh , not so great .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " %um , and it got back to about eighty percent .", "label": ["O", "O", "O", "O", "O", "O", "O", "B-PERCENT", "I-PERCENT", "I-PERCENT", "O"]}
+{"text": " You know it was a detached retina .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Right .", "label": ["O", "O"]}
+{"text": " And then they operated on it once ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and they operated on it twice .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And , then things seemed to be doing pretty well ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and at the moment I 'm %um , not quite so sure .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " So , who knows . %um .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " But you know it 'll never be more than about seventy or eighty percent . Which is fine .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERCENT", "I-PERCENT", "I-PERCENT", "I-PERCENT", "I-PERCENT", "O", "O", "O", "O", "O"]}
+{"text": " Eighty percent is fantastic .", "label": ["B-PERCENT", "I-PERCENT", "O", "O", "O"]}
+{"text": " Right .", "label": ["O", "O"]}
+{"text": " Right .", "label": ["O", "O"]}
+{"text": " %um", "label": ["O"]}
+{"text": " So we 'll just see . You know", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %hm . we 'll see what happens .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Frustrating .", "label": ["O", "O"]}
+{"text": " %uh , yeah .", "label": ["O", "O", "O", "O"]}
+{"text": " Annoying .", "label": ["O", "O"]}
+{"text": " And that thing that came up recently , , you know I had , oh , a kind of a knee problem a couple of years ago .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE", "O"]}
+{"text": " And my right knee ,", "label": ["O", "O", "O", "O", "O"]}
+{"text": " and now it 's my left knee .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " you know , it 's just a pain in the ass .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And yeah . %um , I went to the doctor", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and they do a Punktion . Ich weiss nicht wer .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Anyway they take , %uh fluid out of it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " And if it gets irritated take some pills and stuff .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And , it 's just a pain in the ass .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " So it 's just , l- .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " is that like water on the knee ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Is that what that is ?", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " %um , well that 's what happens .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " It develops because of irritation , because of a %um , inflammation .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " Is that from the running ?", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " And how the inflammation d-", "label": ["O", "O", "O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " maybe .", "label": ["O", "O"]}
+{"text": " I mean they do n't know .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " They do n't", "label": ["O", "O", "O"]}
+{"text": " It just came overnight practically .", "label": ["O", "O", "O", "B-TIME", "O", "O"]}
+{"text": " Wow .", "label": ["O", "O"]}
+{"text": " %um , and %uh , we 'd been up in Berlin", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE"]}
+{"text": " and we had a big trip up there and did a lot of walking , a lot of fast walking and stuff .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But you know , I mean that mhm . should n't be a big deal . %um", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Was this last crop of **Tuftees** good ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " So .", "label": ["O", "O"]}
+{"text": " Was your last crop of students from Tufts good ?", "label": ["O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O"]}
+{"text": " How 's that ?", "label": ["O", "O", "O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " well they 're still here .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " Right ,", "label": ["O", "O"]}
+{"text": " but they 're winding down , so you know them really well by this point .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " They 're winding down .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " they 're very good .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " they learned a lot of German .", "label": ["O", "O", "O", "O", "O", "B-LANGUAGE", "O"]}
+{"text": " They learned an amazing amount of German .", "label": ["O", "O", "O", "O", "O", "O", "B-LANGUAGE", "O"]}
+{"text": " Before I forget , I saw George Silinas a couple of days ago .", "label": ["O", "O", "O", "O", "O", "O", "B-PERSON", "I-PERSON", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE", "O"]}
+{"text": " oh . How 's he doing ?", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And he 's had", "label": ["O", "O", "O", "O"]}
+{"text": " Well he 's working for an American firm over here ,", "label": ["O", "O", "O", "O", "O", "O", "B-NORP", "O", "O", "O", "O"]}
+{"text": " and he 's doing very very well . %um ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and his wife just had their fourth child .", "label": ["O", "O", "O", "O", "O", "O", "B-ORDINAL", "O", "O"]}
+{"text": " Wow .", "label": ["O", "O"]}
+{"text": " A little boy . Benjamin .", "label": ["O", "O", "O", "O", "B-PERSON", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Wow .", "label": ["O", "O"]}
+{"text": " %um , about , %uh , two weeks ago maybe .", "label": ["O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE", "O", "O"]}
+{"text": " %huh .", "label": ["O", "O"]}
+{"text": " Tops .", "label": ["O", "O"]}
+{"text": " And I got a card from ,", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " you remember Amy Gleason ?", "label": ["O", "O", "B-PERSON", "I-PERSON", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Well she just had a baby a couple of", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " heard that .", "label": ["O", "O", "O"]}
+{"text": " Well this is number two .", "label": ["O", "O", "O", "O", "B-CARDINAL", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " I just got a card from Ron and Doris ,", "label": ["O", "O", "O", "O", "O", "O", "B-PERSON", "O", "B-PERSON", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " and they see Amy Gleason on occasion .", "label": ["O", "O", "O", "B-PERSON", "I-PERSON", "O", "O", "O"]}
+{"text": " And so I think they told me that .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Have you heard from Ron and Doris ?", "label": ["O", "O", "O", "O", "B-PERSON", "O", "B-PERSON", "O"]}
+{"text": " Not in a while , no .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " They are now living in Rhode Island .", "label": ["O", "O", "O", "O", "O", "B-GPE", "I-GPE", "O"]}
+{"text": " You probably knew that .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " Well . yeah .", "label": ["O", "O", "O", "O"]}
+{"text": " And she 's teaching at U R I .", "label": ["O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " And it was a very nice letter , because it sounded like she went through very similar things that I did .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " You know , I went from Chicago to U C S G to here .", "label": ["O", "O", "O", "O", "O", "O", "B-GPE", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O"]}
+{"text": " Right .", "label": ["O", "O"]}
+{"text": " And it 's just such an intellectual letdown .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Right .", "label": ["O", "O"]}
+{"text": " And she went from Penn , %um To Columbia . to Columbia to U R I .", "label": ["O", "O", "O", "O", "B-ORG", "O", "O", "O", "B-ORG", "O", "O", "B-ORG", "O", "B-ORG", "I-ORG", "I-ORG", "O"]}
+{"text": " Well Columbia 's okay .", "label": ["O", "B-ORG", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " And she said the students are just ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " you know , they do n't care ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and they 're not very good ,", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and all of a sudden she 's getting conference papers rejected", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and she thinks it 's the affiliation .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Because she does n't think the quality of her work has changed .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Now I have n't submitted a conference paper with the Missouri %um , you know , affiliation yet .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Because the last one I submitted , %um , was in the fall ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and I still had my San Diego affiliation .", "label": ["O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " %um , in fact I 'm still officially on leave .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " If anything came up in the next year we could still go back . uh-huh . %uh you know , for Sam .", "label": ["O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O"]}
+{"text": " Wow .", "label": ["O", "O"]}
+{"text": " But I think it 's very very very very yeah . unlikely .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " But at any rate it was nice to hear from her because she said after two years there now , she %um has come to terms with this ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and yeah . she 's accepted that there 's a lot of good things in Rhode Island .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "I-GPE", "O"]}
+{"text": " And , %um , you know , their life is a lot less complicated ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and she has more time to be a parent .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Good .", "label": ["O", "O"]}
+{"text": " And she 's just not going to have the same kind of career that she had thought about .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Ron is working as a financial consultant for , %um , Meryl Lynch .", "label": ["B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "O"]}
+{"text": " And he", "label": ["O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " yeah , he had been doing work for some environmental firm , as a consultant .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " And , it did n't work out .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um He was changing projects every couple of weeks", "label": ["O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE"]}
+{"text": " and he said he could n't keep on top of it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " He could n't learn the whole new area %mm . that fast each time .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " %um , and he says he went in and had some tests ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and he was diagnosed as having attention deficit disorder .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Which you know , given how far he 's gotten , you know , he got his degree at Tufts and all , I found that surprising that for the first time as an adult they 're diagnosing this . %um", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm . I wonder about it .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But anyway .", "label": ["O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " but that 's what he said .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And %um", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " He %um", "label": ["O", "O"]}
+{"text": " Whatever 's helpful .", "label": ["O", "O", "O", "O"]}
+{"text": " Right .", "label": ["O", "O"]}
+{"text": " So he found this new job as a financial consultant and seems to be happy with that .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Good .", "label": ["O", "O"]}
+{"text": " And then we saw Leo and Julie at Christmas time .", "label": ["O", "O", "O", "O", "B-PERSON", "O", "B-PERSON", "O", "B-DATE", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " And they 're doing great .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " %um , they had just moved to He 's in New York now , right ? a really nice house in Westchester .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "I-GPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O"]}
+{"text": " yeah , Good . an older home that you know Julie is of course carving up and making beautiful . %um", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " uh-huh .", "label": ["O", "O"]}
+{"text": " Now she had a job with an architectural group when she first got out to New York ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "I-GPE", "O"]}
+{"text": " and that did n't work out .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She said they had her doing things that she really was n't qualified to do %ah . and that she really did n't feel competent doing .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And , they mutually agreed that she should leave .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And so she was looking for another job .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And , %um , I 'm sure she 'll find one .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " She 's so talented .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " She may have found one by now . %um", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " oh yeah .", "label": ["O", "O", "O"]}
+{"text": " Amazing ,", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " and so we met , %um , %uh Adrian , their kid , who was three uh-huh . and just a really lovely little boy .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "B-DATE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " right", "label": ["O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " He 's so big .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " Well , , Leo 's big . You know ,", "label": ["O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O"]}
+{"text": " he 's got Leo 's genes .", "label": ["O", "O", "O", "B-PERSON", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " And %uh Ron and Doris sent us a picture of theirs", "label": ["O", "O", "B-PERSON", "O", "B-PERSON", "O", "O", "O", "O", "O", "O"]}
+{"text": " and he has Ron 's expressions .", "label": ["O", "O", "O", "B-PERSON", "O", "O", "O"]}
+{"text": " He really looks like Ron .", "label": ["O", "O", "O", "O", "B-PERSON", "O"]}
+{"text": " oh that 's life .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " %um , and he looked really big too .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " In this picture , he 's three and a half .", "label": ["O", "O", "O", "O", "O", "O", "B-CARDINAL", "I-CARDINAL", "I-CARDINAL", "I-CARDINAL", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " %huh .", "label": ["O", "O"]}
+{"text": " %um , but Leo and Julie just seemed , %um sort of happy with the decisions they 've made .", "label": ["O", "O", "O", "B-PERSON", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And", "label": ["O"]}
+{"text": " Good .", "label": ["O", "O"]}
+{"text": " %um , like every", "label": ["O", "O", "O", "O"]}
+{"text": " now is he with a publishing house now ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Which one is he with .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " Yes which one %um", "label": ["O", "O", "O", "O"]}
+{"text": " Well I can", "label": ["O", "O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " It 's one of these sort of universi- the public university book stuff .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " It might be Hard Core Brace .", "label": ["O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O"]}
+{"text": " I 'm not sure .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " oh yeah .", "label": ["O", "O", "O"]}
+{"text": " I have two friends in publishing .", "label": ["O", "O", "B-CARDINAL", "O", "O", "O", "O"]}
+{"text": " It may be the other one that just took the job with Hard Core Brace", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG"]}
+{"text": " I do n't remember which one .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Anyway , he 's enjoying it and liking it", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and they 're doing okay .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " he seems to feel really like he 's doing the right thing", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and he is Great still in academic publishing .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " My other friend just moved to trade publishing after years in academic publishing", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "O", "O", "O"]}
+{"text": " and mhm %um you know . It feels like maybe she made a compromise", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but it 's like three times the money as with everything else", "label": ["O", "O", "O", "O", "B-CARDINAL", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " so", "label": ["O"]}
+{"text": " wow wow", "label": ["O", "O"]}
+{"text": " industry and academics %um", "label": ["O", "O", "O", "O"]}
+{"text": " Terrible", "label": ["O"]}
+{"text": " yeah it 's amazing", "label": ["O", "O", "O", "O"]}
+{"text": " and %um You know ages ago I got a card from Liz Gana .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "I-PERSON", "O"]}
+{"text": " I told you this .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " because %uh you showed us her picture .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " Crazy", "label": ["O"]}
+{"text": " %um and I keep thinking maybe I 'd get in touch", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but I have n't done it .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and then I saw in the %um Tufts thing that Ginny Totta you know in the alumni thing is living in the", "label": ["O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "B-PERSON", "I-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " So , anyway , how are you doing these days ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Things are going very well .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " I think I had mentioned before %uh , that there 's a company now that I 'm working with %um , %uh , which is very much just myself and Guss .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " And that %um", "label": ["O", "O", "O"]}
+{"text": " No , you had n't mentioned that .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %eh , oh , okay .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " okay , so %um", "label": ["O", "O", "O", "O"]}
+{"text": " %eh you told me that you were leaving the company that you were at ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and you were entertaining offers .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " And , %uh", "label": ["O", "O", "O"]}
+{"text": " well it seemed to make sense since I had a client to just kind of set up my own company , of sorts .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um oh . So things are going extremely well .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " So , I had one client who said that he 'd pay me a minimum amount .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " You know , he , %uh ,", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " there would be a minimum amount of work , of about %uh , a day a week for the next two three years . mhm . Which is sufficient to pay all my bills then", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " so I decided that it would make sense to do this .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um and , %um , I 've been getting substantially more work than then .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %mm .", "label": ["O", "O"]}
+{"text": " So I 'm quite pleased .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " Well that 's good .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " %um , so I have a bunch of %uh work that I need to do on my flat this year .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O"]}
+{"text": " I 've been telling you that I needed to do that roof atrium for quite some time .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But , %uh , it should come out this year .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O"]}
+{"text": " oh , well that 's good .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " It should be done in a few months .", "label": ["O", "O", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "O"]}
+{"text": " oh , yeah", "label": ["O", "O", "O"]}
+{"text": " I remember So you talking a little bit about it at one point .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " So you have no intentions of coming over this way any time soon ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um . I do n't see the finances occurring uh-huh , right . for a while .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um , actually right at the moment finances are not going real well .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But %ah well . I am working on that one .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %uh .", "label": ["O", "O"]}
+{"text": " It 's just But %um %uh , %uh , the main reason for that is I had not really anticipated a few expenses that recently came up %ah . %uh , related to a couple of burglaries that I had .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh , harsh . Harsh .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " and .", "label": ["O", "O"]}
+{"text": " Not a whole lot I can do about that now .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Indeed . Indeed .", "label": ["O", "O", "O", "O"]}
+{"text": " have to deal with the situation .", "label": ["O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And", "label": ["O"]}
+{"text": " So that 's what I 'm doing .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Sounds good .", "label": ["O", "O", "O"]}
+{"text": " But %um Anyway , %uh One of the main reasons that I 've been such a pathetic , %uh , correspondent has been work .", "label": ["O", "O", "O", "O", "O", "B-CARDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I 've actually been doing a lot of it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh wow .", "label": ["O", "O", "O"]}
+{"text": " And %uh , I turned in my Master 's thesis back in May ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "O"]}
+{"text": " and I 'm actually presently working on , %um , several , %uh , articles oh , okay . Impressive . from it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " actually it turns out that one thing , one little bit in what I was doing , %uh , is going to turn out to be very important in the end . %uh , from what I had been reading in the literature .", "label": ["O", "O", "O", "O", "O", "B-CARDINAL", "O", "O", "B-CARDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " You see the one very annoying thing about all of this , was my advisor has been in France for a year and a half .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " And this made writing my thesis very annoying because you know there was n't much discussion .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " yup ,", "label": ["O", "O"]}
+{"text": " yup .", "label": ["O", "O"]}
+{"text": " But , %um Anyway , I had been kind of telling him that , you know , from my reading of the literature , I thought that this one little alteration I had made in my model was kind of clever and unique .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CARDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mhm .", "label": ["O", "O"]}
+{"text": " And it made the one type of solution occur , which was seen experimentally ,", "label": ["O", "O", "O", "O", "B-CARDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but none of the other models %uh , had ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Yes .", "label": ["O", "O"]}
+{"text": " the- ,", "label": ["O", "O"]}
+{"text": " I 'm looking at , %um , multi mode lasers .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And one of the things that they find experimentally are what they call anti phased , %uh , states , where if you look at the total intensity uh-huh . of the laser , you get an oscillation which is characterized by one frequency .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CARDINAL", "O", "O"]}
+{"text": " Yes .", "label": ["O", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " if you separate out the different modes of the laser mhm . and look at one of those , you get more than one frequency .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CARDINAL", "I-CARDINAL", "I-CARDINAL", "O", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " So what 's happening is that the modes are oscillating out of phase so that they completely mask each other 's Exactly . %hm . oscillations on these other frequencies .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And %uh With a pretty simple model you can find that frequency in a transient ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but you ca n't find that frequency in a driven , %uh , frequency .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " You ca n't find so that it will sustain .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " Yes .", "label": ["O", "O"]}
+{"text": " So yeah , that particular frequency according to most models damps out very quickly .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And so you should n't actually really be able to ever see it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " The only thing is , that , when you do the experiment you see it .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Got it ,", "label": ["O", "O", "O"]}
+{"text": " got it .", "label": ["O", "O", "O"]}
+{"text": " I see .", "label": ["O", "O", "O"]}
+{"text": " So , %um , I found a simple modification of the original formula , which unfortunately makes the solutions horrendously nasty . And in most cases , %uh , insoluble .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But yeah . it gives a driving term .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh , okay .", "label": ["O", "O", "O", "O"]}
+{"text": " So , it actually creates a situation where you get the right sort of answer , you just ca n't always write it down very easily .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Exactly .", "label": ["O", "O"]}
+{"text": " oh wow .", "label": ["O", "O", "O"]}
+{"text": " so you 're pushing forward the bounds of theoretical laser , %uh , whatever it is science .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But", "label": ["O"]}
+{"text": " which , %um , is kind of interesting considering that that 's not really my thing . . Indeed . Indeed . being an experimentalist , not a theorist .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %um Indeed . oh wow . oh , impressive . But", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " so are you going to get an article in Nature or something ?", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O", "O", "O"]}
+{"text": " %um , actually , I 'm not sure if we 're shooting for op- ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I think Optics Letters is probably the one that we 're shooting for , or else , perhaps , though I do n't think it 's quite that significant , would be Phys Rev Letters .", "label": ["O", "O", "B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " But , %uh , we want to write a letter , and then a couple articles .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CARDINAL", "I-CARDINAL", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " %hm . impressive .", "label": ["O", "O", "O", "O"]}
+{"text": " And I do n't know how much you know about scientific literature ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " but letters are much more prestigious than , articles .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh , okay .", "label": ["O", "O", "O", "O"]}
+{"text": " oh , I did n't realize that .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " okay .", "label": ["O", "O"]}
+{"text": " yeah ,", "label": ["O", "O"]}
+{"text": " so that 's why it 's actually a big deal is", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " I mean , you know , writing a couple of articles based on your Master 's thesis , is , not at all unusual in Physics", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and yeah . %uh , it 's the fact that I would be writing a letter that is the impressive part of it all .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And what 's actually kind of interesting is I kept telling Neil that I thought that this was kind of significant .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And Neil kept writing back that I should tone this part of the thesis down that You know , people see the anti phased motion ,", "label": ["O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and it 's true", "label": ["O", "O", "O", "O"]}
+{"text": " they do in the transients", "label": ["O", "O", "O", "O", "O"]}
+{"text": " And I was having a lot of trouble getting across to him that all of the literature has this frequency in the transients Yes . %eh and not driven .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And , %uh , what happened was after I had turned in my thesis but before I saw Neil again , he went to a conference in Rochester and there this was a big issue among the people who were doing this work , was , that their models could n't show this as a driven frequency ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O", "B-GPE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yet their experiments showed it as a driven frequency .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh cool .", "label": ["O", "O", "O"]}
+{"text": " and so Neil then -- Said oh just a second I -- like a week later came to Bryn Mawr", "label": ["O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "B-TIME", "O", "O", "O", "B-DATE", "I-DATE", "I-DATE", "O", "O", "B-ORG", "I-ORG"]}
+{"text": " and he said , hey Lowell , we got to write this up .", "label": ["O", "O", "O", "O", "O", "B-PERSON", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Exactly .", "label": ["O", "O"]}
+{"text": " And I was like , well I 've been telling you that Neil .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PERSON", "O"]}
+{"text": " Indeed .", "label": ["O", "O"]}
+{"text": " So Cool . Cool . that 's mostly the sort of stuff that I 'm spending a lot of time on now . %um", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Well it 'll look good on your C V , your resume .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " so you might as well spend the time .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Yes , well ,", "label": ["O", "O", "O", "O"]}
+{"text": " %uh , no , it 's definitely worth doing . %um ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and I would have been spending more time on it if it were n't for %uh dealing with the burglary issues oh yeah but that I 've been dealing with .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " So are you still living in that house in the middle of the park .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Yes .", "label": ["O", "O"]}
+{"text": " yeah , okay .", "label": ["O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " I mean the thing that i-", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " this place is incredibly easy to break into if you want to .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " oh .", "label": ["O", "O"]}
+{"text": " It 's not a question of whether or not , %uh you know , that was easy ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " it was just that no one really knew it was worth breaking into .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Exactly .", "label": ["O", "O"]}
+{"text": " Exactly .", "label": ["O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " And so the problem is that now they found out that it 's worth breaking into .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " And unfortunately .", "label": ["O", "O", "O"]}
+{"text": " Well , it 's kind of odd .", "label": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " They 've stolen very weird things for the most part .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %hm .", "label": ["O", "O"]}
+{"text": " as far", "label": ["O", "O"]}
+{"text": " yeah", "label": ["O"]}
+{"text": " as a .", "label": ["O", "O", "O"]}
+{"text": " The first time they broke in , what they stole was just bizarre ,", "label": ["O", "B-ORDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " mostly worthless stuff .", "label": ["O", "O", "O", "O"]}
+{"text": " And , %uh %huh the most worthwhile thing as far as monetary value went that they stole was the pre-amplifier of my stereo . Unfortunately , because it 's a nice pre-amplifier ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " it has an off board power supply which they did n't steal , which makes the thing that they **stoled** absolutely worthless .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " %huh .", "label": ["O", "O"]}
+{"text": " So .", "label": ["O", "O"]}
+{"text": " That 's bizarre . Bizarre .", "label": ["O", "O", "O", "O", "O", "O"]}
+{"text": " so when they broke in the second time did they steal the %uh offboard amplifier ?", "label": ["O", "O", "O", "O", "O", "O", "B-ORDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Actually , no ,", "label": ["O", "O", "O", "O"]}
+{"text": " all they stole the second time was my bike .", "label": ["O", "O", "O", "O", "B-ORDINAL", "O", "O", "O", "O", "O"]}
+{"text": " %huh .", "label": ["O", "O"]}
+{"text": " Which was actually where the major problem came . Exactly . Exactly . yeah . Is that I suddenly had no transportation .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And so , I then had to go bike hunting and eventually get another bike ,", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " and %mm . that cost me a lot of time .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " yeah .", "label": ["O", "O"]}
+{"text": " Exactly .", "label": ["O", "O"]}
+{"text": " Because ,", "label": ["O", "O"]}
+{"text": " yes", "label": ["O"]}
+{"text": " Spending a lot of time hunting for bikes , and nah well . then getting one purchased , and then having to , you know , go get it and things like that .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-CARDINAL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But , that 's dealt with at least .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " And so %uh , that 's yeah at least dealt with .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " Now I just have to work on the financial aspects of all of this .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": " But yeah . yeah .", "label": ["O", "O", "O", "O", "O"]}
+{"text": " At least Well that would make sense during the summer %uh according to the stipulations of my fellowship , I can actually earn money during the summer .", "label": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-DATE", "I-DATE", "O"]}
