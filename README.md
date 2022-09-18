@@ -1,6 +1,6 @@
 ## DogeTickets
 
-This repository contains code and data for NLPCC 2022 paper titled [Doge Tickets: Uncovering Domain-general Language Models via Playing Lottery Tickets.](https://arxiv.org/abs/2207.09638).
+This repository contains code and data for NLPCC 2022 paper titled [Doge Tickets: Uncovering Domain-general Language Models by Playing Lottery Tickets.](https://arxiv.org/abs/2207.09638).
 
 **************************** **Updates** ****************************
 
@@ -70,7 +70,7 @@ Please cite our paper if you use the code or data in your work:
 
 ```bibtex
 @inproceedings{yang2022doge,
-   title={Doge Tickets: Uncovering Domain-general Lnaguage Models via Playing Lottery Tickets},
+   title={Doge Tickets: Uncovering Domain-general Lnaguage Models by Playing Lottery Tickets},
    author={Yang, Yi and Zhang, Chen and Wang, Benyou and Song, Dawei},
    booktitle={NLPCC},
    year={2022}
