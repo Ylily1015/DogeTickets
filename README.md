@@ -77,3 +77,7 @@ Please cite our paper if you use the code or data in your work:
    year={2022}
 }
 ```
+
+## Credits
+
+Our code is partly borrowed from [super tickets](https://github.com/cliang1453/super-structured-lottery-tickets).
