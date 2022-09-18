@@ -1,6 +1,6 @@
 ## DogeTickets
 
-This repository contains code and data for NLPCC 2022 paper titled [Doge Tickets: Uncovering Domain-general Lnaguage Models via Playing Lottery Tickets.](https://arxiv.org/abs/2207.09638).
+This repository contains code and data for NLPCC 2022 paper titled [Doge Tickets: Uncovering Domain-general Language Models via Playing Lottery Tickets.](https://arxiv.org/abs/2207.09638).
 
 **************************** **Updates** ****************************
 
@@ -29,7 +29,7 @@ We anticipate the code will be out * **in one week** *. -->
 
 It is recognized that, when LMs are faced with multiple domains, a critical portion of parameters behave unexpectedly in a domain-specific manner while others behave in a domain-general one. Motivated by this phenomenon, we for the first time posit that domain-general parameters can underpin a domain-general LM that can be derived from the original LM. To uncover the domain-general LM, we propose to identify domain-general parameters by playing lottery tickets (dubbed doge tickets).
 
-<img src="assets/motivation.png" width="270" alt="case" align=center/> <img src="assets/method.png" width="300" alt="case" align=center/>
+<img src="assets/motivation.png" width="270" alt="case" align=center/> <img src="assets/method.png" width="450" alt="case" align=center/>
 
 ## Getting Started
 
