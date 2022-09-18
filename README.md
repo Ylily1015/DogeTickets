@@ -40,11 +40,10 @@ It is recognized that, when LMs are faced with multiple domains, a critical port
 
 ### Training
 
-We provide example training scripts for MuG with and without the structural adapter. For example, in `scripts/train_amazon.sh`, we provide an example for training MuG without the adapter. We explain the arguments in the following:
+We provide example training scripts for MuG with and without the structural adapter. For example, in `scripts/train_amazon.sh`. We explain the arguments in the following:
 * `--model_type`: Plug model with mask or not, default to *cls_tuning_with_mask*.
 * `--model_name_or_path`: Path to pretrained model for training, init model for rewinding.
-* `--task_name amazon`: Name to indicate the task.
-* `--pretrained_model_name_or_path`: Pre-trained checkpoints to start with.
+* `--task_name`: Name to indicate the task.
 * `--train_data_domains`: Domains for training.
 * `--test_data_domains`: Domains for test.
 
