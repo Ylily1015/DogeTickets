@@ -19,7 +19,8 @@ We anticipate the code will be out * **in one week** *. -->
   - [Getting Started](#getting-started)
     - [Requirements](#requirements)
     - [Training](#training)
-    - [Evaluation](#evaluation)
+    - [Pruning](#pruning)
+    - [Rewinding](#rewinding)
   - [Case Study](#case-study)
   - [Bugs or Questions?](#bugs-or-questions)
   - [Citation](#citation)
@@ -39,21 +40,26 @@ It is recognized that, when LMs are faced with multiple domains, a critical port
 
 ### Training
 
-**Training scripts**
-
-We provide example training scripts for MuG with and without the structural adapter. For example, in `scripts/run_google_bert_train.sh`, we provide an example for training MuG without the adapter. We explain the arguments in following:
-* `--mode`: Train or evaluate the model.
+We provide example training scripts for MuG with and without the structural adapter. For example, in `scripts/train_amazon.sh`, we provide an example for training MuG without the adapter. We explain the arguments in the following:
+* `--model_type`: Plug model with mask or not, default to *cls_tuning_with_mask*.
+* `--model_name_or_path`: Path to pretrained model for training, init model for rewinding.
+* `--task_name amazon`: Name to indicate the task.
 * `--pretrained_model_name_or_path`: Pre-trained checkpoints to start with.
-* `--embed_learning_rate`: Learning rate for BERT backbones and adapters.
-* `--learning_rate`: Learning rate for modules built upon BERT backbones.
-* `--hidden_size`: Size of hidden states.
-* `--sentiment_size`: Number of types of sentiments.
-* `--tag_size`: Number of types of tags
-* `--use_adapter`: Use the adapter or not.
+* `--train_data_domains`: Domains for training.
+* `--test_data_domains`: Domains for test.
 
-### Evaluation
+### Pruning
 
-We also provide example training scripts, for example `scripts/run_google_bert_eval.sh`, where arguments share similar meaning as those in training ones.
+We also provide example pruning scripts, for example `scripts/mask_amazon.sh`, where arguments share similar meaning as those in training ones, with a few additional arguments as follows:
+* `--do_mask_with_domain`: Compute doge tickets or winning tickets, default to winning tickets.
+* `--normalize_by_layer`: .
+
+### Rewinding
+
+We also provide example rewinding scripts, for example `scripts/rewind_amazon.sh`, where arguments share similar meaning as those in training ones, with a few additional arguments as follows:
+* `--head_mask_file`: Path to the file output by pruning to denote which heads should be pruned.
+* `--ffn_mask_file`: Path to the file output by pruning to denote which ffns should be pruned.
+* `--sparsity`: Sparsity being considered.
 
 ## Bugs or Questions?
 
