@@ -12,8 +12,8 @@ do
         --template "" \
         --verbalizer "" \
         --data_dir datasets \
-        --train_data_domains "All_Beauty" "Industrial_and_Scientific" "Movies_and_TV" "Software"\
-        --test_data_domains "Automotive" "Digital_Music" "Gift_Cards" \
+        --train_data_domains "Digital_Music" "Gift_Cards" "Movies_and_TV" "Software"\
+        --test_data_domains "All_Beauty" "Automotive" "Industrial_and_Scientific" \
         --max_length 256 \
         --per_device_train_batch_size 16 \
         --per_device_eval_batch_size 16 \
