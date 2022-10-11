@@ -6,10 +6,7 @@ This repository contains code and data for NLPCC 2022 paper titled [Doge Tickets
 
 <!-- Thanks for your interest in our repo! -->
 
-<!-- Probably you will think this as another *"empty"* repo of a preprint paper 🥱.
-Wait a minute! The authors are working day and night 💪, to make the code and models available.
-We anticipate the code will be out * **in one week** *. -->
-
+* 9/25/22: Our paper accepted Best Paper Award at NLPCC 2022!
 * 9/5/22: We released our paper. Check it out!
 * 9/1/22: We released our code and data. Check it out!
 
@@ -37,11 +34,12 @@ It is recognized that, when LMs are faced with multiple domains, a critical port
 
 - PyTorch
 - Numpy
+- Transformers
 
 ### Training
 
-We provide example training scripts for MuG with and without the structural adapter. For example, in `scripts/train_amazon.sh`. We explain the arguments in the following:
-* `--model_type`: Plug model with mask or not, default to *cls_tuning_with_mask*.
+We provide example training scripts. For example, in `scripts/train_amazon.sh`. We explain the arguments in the following:
+* `--model_type`: Plug model with mask or not, default to `cls_tuning_with_mask`.
 * `--model_name_or_path`: Path to pretrained model for training, init model for rewinding.
 * `--task_name`: Name to indicate the task.
 * `--train_data_domains`: Domains for training.
@@ -49,9 +47,9 @@ We provide example training scripts for MuG with and without the structural adap
 
 ### Pruning
 
-We also provide example pruning scripts, for example `scripts/mask_amazon.sh`, where arguments share similar meaning as those in training ones, with a few additional arguments as follows:
+We also provide example pruning scripts. For example, in `scripts/mask_amazon.sh`, arguments share similar meanings as those in training ones, with a few additional arguments as follows:
 * `--do_mask_with_domain`: Compute doge tickets or winning tickets, default to winning tickets.
-* `--normalize_by_layer`: .
+* `--normalize_by_layer`: Whether normalize important scores per layers.
 
 ### Rewinding
 
